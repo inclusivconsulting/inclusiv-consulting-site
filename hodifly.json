@@ -1,0 +1,10 @@
+{
+  "mode": "static",
+  "runtime": "none",
+  "build": "",
+  "output": "dist",
+  "env": {
+    "required": []
+  },
+  "keepReleases": 5
+}
